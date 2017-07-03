@@ -1,0 +1,94 @@
+body{
+	background: #e6e6e6;
+	width: 100%;
+}
+
+.wrapper{
+	width: 80%;
+	margin:auto;
+	border: 1px solid black;
+	background: white;
+
+}
+
+.image1{
+	width: 90%;
+	height: 90%;
+	margin:3%;
+	
+}
+
+.image1 img{
+	float: left;
+	width: 13%;
+	margin:1%;
+	
+}
+
+
+.image2{
+	width: 90%;
+	height: 90%;
+	margin:3%;
+	
+}
+
+.image2 img{
+	float: left;
+	width: 13%;
+	margin:1%;
+	
+}
+
+.image3{
+	width: 90%;
+	height: 90%;
+	margin:3%;
+	
+}
+
+.image3 img{
+	float: left;
+	width: 13%;
+	margin:1%;
+	
+}
+
+.image4{
+	width: 90%;
+	height: 90%;
+	margin:3%;
+	
+}
+
+.image4 img{
+	float: left;
+	width: 13%;
+	margin:1%;
+	
+}
+
+.image1:hover{
+	background: grey;
+	transition: .5s;
+
+}
+
+
+.image2:hover{
+	background: grey;
+	transition: .5s;
+
+}
+
+.image3:hover{
+	background: grey;
+	transition: .5s;
+
+}
+
+.image4:hover{
+	background: grey;
+	transition: .5s;
+
+}
